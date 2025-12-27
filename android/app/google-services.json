@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "115596712226",
+    "project_id": "mapmypath-a2dcf",
+    "storage_bucket": "mapmypath-a2dcf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115596712226:android:e24aed3c5d9f21ac3a6d7b",
+        "android_client_info": {
+          "package_name": "com.buytoday.mapmypathapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfKu3lAWfakhG1Hy6ccA_0F-7Tpdvo03k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
